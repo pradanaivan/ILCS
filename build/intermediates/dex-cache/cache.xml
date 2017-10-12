@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\incremental-runtime-classes\production\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\transforms\dex\production\debug\folders\1000\10000\instant-run_dfd02f27befe108abaac0240eb7b6af9e882145c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\transforms\dex\production\debug\folders\1000\2\gcm_e4e1f4bd53c6cd05cfab3af1e95e8a154e9162b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\incremental-classes\production\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42e9755ff2e17ecb5612facf716fc7c6e6d4ad60">
+        <dex dex="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\transforms\dex\production\debug\folders\1000\10000\instant-run-bootstrap_f4d2c98d3135c5049e1295a7d9fa17762d592754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tunggul.jati\.android\build-cache\c275e4974018bc8a0086b9f10f59545546e7d8d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\transforms\dex\production\debug\folders\1000\10\classes_86ed21d210276dec4901b27ff073870427a7cf35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tunggul.jati\.android\build-cache\5301e4d2b6cbf0a9b9204260c1585b44f7bf4974\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5c72b155537d41cadf3ef338804bf91fa34759e">
+        <dex dex="E:\Mobile\ILCS\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\TO\app\build\intermediates\transforms\dex\production\debug\folders\1000\10\classes_7710975529a5f63beea379385ab6099c8a379b20\classes.dex" />
+    </item>
+
+</items>

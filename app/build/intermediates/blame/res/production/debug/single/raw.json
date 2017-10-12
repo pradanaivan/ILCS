@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/production/debug/raw/gtm_analytics",
+        "source": "/Users/home/.android/build-cache/8408a321070f36055076704e759c55081ae61c5a/output/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/E:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\zxing_beep.ogg",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/C:\\Users\\tunggul.jati\\.android\\build-cache\\23c1ebce09c098176f40474190f15bd86067f450\\output\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/production/debug/raw/zxing_beep.ogg",
+        "source": "/Users/home/.android/build-cache/3f6578aabff2794a78f21f9a21f725844a8b6253/output/res/raw/zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/E:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\gtm_analytics",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/C:\\Users\\tunggul.jati\\.android\\build-cache\\b6c4b8fa6e1f85384fcda05ffe36e940060a71de\\output\\res\\raw\\gtm_analytics"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

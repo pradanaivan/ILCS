@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/bg_color</color>
+    <color name="colorPrimaryDark">@color/box</color>
+    <color name="colorAccent">@color/wallet_highlighted_text_holo_light</color>
+    <color name="blue_color">#0073BC</color>
+    <color name="status_bar">#40000000</color>
+    <color name="merah">#ed1c24</color>
+    <color name="transparent_alpha">#AAFFFFFF</color>
+    <color name="green">#00FF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="blue_btn">#007e76</color>
+    <color name="blue_young">#DAEEF3</color>
+    <color name="blue_dark_btn">#007085</color>
+    <color name="red_dark">#CD1C24</color>
+    <color name="sidebar_color">#252525</color>
+    <color name="bg_color">#6B6666</color>
+    <color name="box">#4e4c4d</color>
+    <color name="border_box">#868281</color>
+    <color name="separator_line">#ECECEC</color>
+    <color name="title">#222222</color>
+    <color name="subtitle">#999999</color>
+    <color name="abu">#e6e6e6</color>
+    <color name="white">#ffffff</color>
+
+</resources>

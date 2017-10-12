@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<array name="entries">
+		<item>@drawable/announcement_2</item>
+		<item>@drawable/tiket_2</item>
+		<item>@drawable/truck_activity_2</item>
+		<item>@drawable/driver_2</item>
+		<item>@drawable/inbox_2</item>
+
+	</array>	
+	<array name="names">
+		<item>@string/create_announcement</item>
+		<item>@string/entry_ticket</item>
+		<item>@string/truck_activity</item>
+		<item>@string/driver</item>
+		<item>@string/inbox</item>
+	</array>
+</resources>

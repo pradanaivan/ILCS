@@ -1,0 +1,4 @@
+#Wed Oct 11 14:18:43 ICT 2017
+base.0=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\5\\slice_5\\classes.dex

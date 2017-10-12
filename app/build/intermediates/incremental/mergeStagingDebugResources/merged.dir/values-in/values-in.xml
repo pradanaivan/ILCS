@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <integer-array name="icon_main_menu">
+        <item>@drawable/announcement</item>
+        <item>@drawable/ticket</item>
+        <item>@drawable/activity</item>
+        <item>@drawable/inbox</item>
+        <item>@drawable/driver</item>
+        <item>@drawable/myaccount</item>
+    </integer-array>
+    <string-array name="menu_left_drawer">
+        <item>@string/create_announcement</item>
+        <item>@string/entry_ticket</item>
+        <item>@string/truck_activity</item>
+        <item>@string/inbox</item>
+        <item>@string/driver</item>
+    </string-array>
+    <string-array name="title_main_menu">
+        <item>@string/create_announcement</item>
+        <item>@string/entry_ticket</item>
+        <item>@string/truck_activity</item>
+        <item>@string/inbox</item>
+        <item>@string/driver</item>
+        <item>@string/my_account</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi ke beranda"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi naik"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Kueri penelusuran"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="action_language">Bahasa</string>
+    <string name="action_my_account">Akun Pribadi</string>
+    <string name="action_notif">Notifikasi</string>
+    <string name="action_refresh">Muat Ulang</string>
+    <string name="action_search">Cari</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_signout">Keluar</string>
+    <string name="add">+</string>
+    <string name="add_driver">Tambah Supir</string>
+    <string name="amount_of_vins">Jumlah Vins</string>
+    <string name="announce_vin">Apakah anda ingin mendaftarkan vin ini di cartos ?</string>
+    <string name="announcement">ANNOUNCEMENT</string>
+    <string name="app_name">IKT Apps</string>
+    <string name="are_you_sure_delete">Apakah anda yakin ingin hapus?</string>
+    <string name="are_you_sure_logout">Apakah anda yakin ingin keluar?</string>
+    <string name="assign_ticket">Assigned Entry Ticket</string>
+    <string name="available">Tersedia</string>
+    <string name="back">Kembali</string>
+    <string name="backload">Backload</string>
+    <string name="cancel">Batal</string>
+    <string name="change_pwd">Ubah Password</string>
+    <string name="choose_license_type">Pilih Tipe Sim</string>
+    <string name="choose_time_slot">Pilih slot waktu</string>
+    <string name="close">Tutup</string>
+    <string name="comm_service">COMMUNITY SERVICE</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> memerlukan satu atau beberapa layanan Google Play yang saat ini tidak tersedia. Hubungi pengembang untuk mendapatkan bantuan."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Aktifkan layanan Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi jika layanan Google Play tidak diaktifkan."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Aktifkan layanan Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Dapatkan layanan Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Dapatkan layanan Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Akun Tidak Valid"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Perlu sambungan data untuk tersambung ke layanan Google Play."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Kesalahan Jaringan"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Kesalahan layanan Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"Mengakses akun dari profil yang dibatasi tidak didukung."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Profil Dibatasi"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Kesalahan saat masuk ke akun yang ditentukan. Pilih akun yang lain."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Gagal masuk"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> kesulitan dengan layanan Google Play. Jika masalah terus berlanjut, hubungi pengembang untuk mendapatkan bantuan."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> memerlukan layanan Google Play, yang tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapat bantuan."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Layanan Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Perbarui"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan jika layanan Google Play tidak diperbarui."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Perbarui layanan Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Layanan Google Play sedang diperbarui"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Buka di ponsel"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Masuk"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <string name="company">Perusahaan</string>
+    <string name="complete">Selesai</string>
+    <string name="conf_pwd">Konfirmasi Password</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="confirm_announcement">Konfirmasi Announcement</string>
+    <string name="confirm_delete">Apakah anda yakin akan menghapus?</string>
+    <string name="confirm_password">Konfirmasi Password Baru</string>
+    <string name="create_announcement">BUAT ANNOUNCEMENT</string>
+    <string name="create_driver">Buat Supir</string>
+    <string name="domestic">Domestic</string>
+    <string name="download_failed">Download gagal</string>
+    <string name="driver">SUPIR</string>
+    <string name="driver_name">Nama Supir</string>
+    <string name="driver_phone">No Telp Supir</string>
+    <string name="edit_driver">Ubah Driver</string>
+    <string name="english">English</string>
+    <string name="entry_ticket">TIKET MASUK</string>
+    <string name="err_message_password_should_be_required">Mohon isikan field yang dibutuhkan</string>
+    <string name="err_message_password_should_be_same">Password baru dan Passsword confirmasi harus sama</string>
+    <string name="home">HALAMAN UTAMA</string>
+    <string name="identity_no">Nomor KTP</string>
+    <string name="inbox">KOTAK MASUK</string>
+    <string name="inbox_setting">Kotak Masuk</string>
+    <string name="incoming">Incoming</string>
+    <string name="ind_logistic">INDONESIA LOGISTIC</string>
+    <string name="indonesia">Bahasa Indonesia</string>
+    <string name="international">International</string>
+    <string name="label_ANNOUNCE">Announce</string>
+    <string name="label_COMPLETE">Complete</string>
+    <string name="label_LEFT">Left</string>
+    <string name="label_OPERATION">Operation</string>
+    <string name="label_activity_list">Daftar Aktifitas</string>
+    <string name="label_amount_of_car_to_pickup">Kapasitas Truk</string>
+    <string name="label_amount_of_car_to_vessel">Kapasitas Vessel</string>
+    <string name="label_carrier">Carrier</string>
+    <string name="label_colon">:</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_detail_truck_status">Detail Status Truk</string>
+    <string name="label_driver">Supir</string>
+    <string name="label_driver_active">Sopir Aktif</string>
+    <string name="label_license_plat">Plat No</string>
+    <string name="label_load_lanes">Load Lanes In</string>
+    <string name="label_load_lanes_out">Load Lanes Out</string>
+    <string name="label_outgoing_vessel">Vessel Keluar</string>
+    <string name="label_outgoing_voy_nr">Voy keluar</string>
+    <string name="label_plat_no">Plat No</string>
+    <string name="label_time_begin">Waktu Mulai</string>
+    <string name="label_time_end">Waktu Berakhir</string>
+    <string name="label_transport_mode">Mode Transpor</string>
+    <string name="label_type">Tipe</string>
+    <string name="label_via_mobile">Lewat Mobile</string>
+    <string name="label_via_web">Lewat Web</string>
+    <string name="left">Pergi</string>
+    <string name="license_no">Nomor SIM</string>
+    <string name="loading_load">Sedang Memuat…</string>
+    <string name="loading_please_wait">Silahkan Tunggu…</string>
+    <string name="loading_processing">Sedang Proses…</string>
+    <string name="loading_registering">Sedang Mendaftarkan</string>
+    <string name="loading_registering_push_fail">Register Push gagal…</string>
+    <string name="loading_retrieve_userprofile">Mengambil Profile</string>
+    <string name="loading_saving">Sedang Menyimpan</string>
+    <string name="loading_unregistering">Unregistering…</string>
+    <string name="loading_update">Sedang cek update…</string>
+    <string name="login">MASUK</string>
+    <string name="mandatory">Wajib diisi</string>
+    <string name="mandatory_conf_pwd">* Konfirmasi Password Baru</string>
+    <string name="mandatory_identity_no">* No Identitas</string>
+    <string name="mandatory_license_no">* No SIM</string>
+    <string name="mandatory_name">* Nama</string>
+    <string name="mandatory_password">* Password</string>
+    <string name="mandatory_phone_number">* No Tlp</string>
+    <string name="mandatory_username">* Username</string>
+    <string name="min">-</string>
+    <string name="mobile_apps">mobile apps</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Transmisi"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Menelusuri perangkat…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Sambungkan ke perangkat"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Putuskan sambungan"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Tidak ada info yang tersedia"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Jeda"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Putar"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Setelan rute"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Hentikan transmisi"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Perangkat"</string>
+    <string name="my_account">AKUN PRIBADI</string>
+    <string name="name">Nama</string>
+    <string name="navigation_drawer_close">Tutup Menu</string>
+    <string name="navigation_drawer_open">Buka Menu</string>
+    <string name="network_timeout">Koneksi Putus</string>
+    <string name="new_password">Password Baru</string>
+    <string name="next">Lanjut</string>
+    <string name="no">Tidak</string>
+    <string name="not_match">Tidak sama</string>
+    <string name="old_password">Password Lama</string>
+    <string name="operation">Sedang proses</string>
+    <string name="or">Atau</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Nomor Handphone</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Hapus penelusuran"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Telusuri"</string>
+    <string name="put_trip_no">Masukkan No Trip</string>
+    <string name="put_trip_no_button">Masukkan No Trip atau Kapasitas</string>
+    <string name="put_vins_no">Masukkan Nomor Vins</string>
+    <string name="request_aborted">Request di batalkan</string>
+    <string name="restart_application">Aplikasi butuh di restart setelah merubah bahasa?</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Telusuri"</string>
+    <string name="setting">Pengaturan</string>
+    <string name="show_pwd">Tampilkan password</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_truck_update">Update Status Truk</string>
+    <string name="success_message_change_password">Merubah password berhasil</string>
+    <string name="success_message_delete_driver">Hapus supir berhasil</string>
+    <string name="terminal">Terminal</string>
+    <string name="timeslot_title">Slot Waktu</string>
+    <string name="trip_no">Nomor Trip</string>
+    <string name="truck">TRUK</string>
+    <string name="truck_activity">AKTIFITAS TRUK</string>
+    <string name="truck_capacity">Kapasitas Truk</string>
+    <string name="truck_plat_no">Plat Nomor Truk</string>
+    <string name="unassign_ticket">Unassigned Entry Ticket</string>
+    <string name="username">Username</string>
+    <string name="vin_can_not_twice">vin tidak boleh di tambah lebih dari 1</string>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"Beli dengan Google"</string>
+    <string name="yes">Ya</string>
+</resources>

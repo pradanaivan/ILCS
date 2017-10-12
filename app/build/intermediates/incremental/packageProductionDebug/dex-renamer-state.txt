@@ -1,0 +1,7 @@
+#Thu Oct 12 09:01:59 ICT 2017
+base.0=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f4d2c98d3135c5049e1295a7d9fa17762d592754
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10000\\instant-run_dfd02f27befe108abaac0240eb7b6af9e882145c\\classes.dex
+base.1=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10000\\instant-run_dfd02f27befe108abaac0240eb7b6af9e882145c
+file.0=E\:\\Mobile\\ILCS\\cartrust-28c5cf7f67a27078d8f9c082843334db26e32654-28c5cf7f67a27078d8f9c082843334db26e32654\\TO\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f4d2c98d3135c5049e1295a7d9fa17762d592754\\classes.dex

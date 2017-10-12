@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable-anydpi-v21/back_arrow.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/generated/res/pngs/staging/debug/drawable-anydpi-v21/back_arrow.xml"
+    }
+]

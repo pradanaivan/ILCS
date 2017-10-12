@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ilcs_logo.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ilcs_logo.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_delete.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ic_delete.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/car_terminal.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/car_terminal.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/spinner_background_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/splash_announcement.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/splash_announcement.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/border_gray_drawable.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/border_gray_drawable.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_3_success.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_3_success.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/key_background_dark.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/turnplate_bg_left.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/turnplate_bg_left.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notif_error.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/notif_error.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/rounded_button_blue.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/rounded_button_blue.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_backspace_dark.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/circle_bg_blue.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/circle_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bp_material_button_selected.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/bp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bg.jpg",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/border_white_radius_drawable.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/border_white_radius_drawable.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/arrow_right.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/arrow_right.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/progress.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/progress.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/rounded_button_dark.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/rounded_button_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/slider_bg.9.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/slider_bg.9.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notif_status_update.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/notif_status_update.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/announcement_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/announcement_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icn_box.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icn_box.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_drawer.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/done_background_color.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/done_background_color.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bg_notif_green.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/bg_notif_green.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icon_truck.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icon_truck.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_3.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_3.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/border_white_drawable.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/border_white_drawable.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_4_success.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_4_success.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ikt_logo_putih.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ikt_logo_putih.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/met_ic_clear.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/met_ic_clear.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notification_bg.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icn_check.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icn_check.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notif_unassign_ticket.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/notif_unassign_ticket.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/driver.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/driver.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/rounded_button_grey.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/rounded_button_grey.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/progressbar_bg.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/progressbar_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/logo_light_bg.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/logo_light_bg.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_backspace_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/radio_button.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/radio_button.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/radio_checked.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/radio_checked.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/inbox_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/inbox_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_2_success.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_2_success.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notif_info.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/notif_info.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/inbox.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/inbox.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/tiket_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/tiket_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/home/.android/build-cache/238aa21ea1a83130bc7b69bed50fc60b372545d7/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/tiket.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/tiket.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/edit_text_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/design_password_eye.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icn_notif.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icn_notif.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/logo_dark_bg.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/logo_dark_bg.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/text_cursor.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/text_cursor.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/radio_uncheck.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/radio_uncheck.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/dummy.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/dummy.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/launcher.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/launcher.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bg_notif_red.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/bg_notif_red.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/background_tab.xml",
+        "source": "/Users/home/.android/build-cache/b8dc13339ac63179bc8422e9fa2d2ad783cbb23e/output/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/rounded_spinner.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/rounded_spinner.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/my_account_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/my_account_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ticket.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ticket.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/avatar_internet.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/avatar_internet.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/myaccount.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/myaccount.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/rounded_button_red.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/rounded_button_red.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/color_cursor.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/color_cursor.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_check_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/turnplate_mask_unlogin_normal.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/turnplate_mask_unlogin_normal.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/driver_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/driver_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/border_blue_drawable.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/border_blue_drawable.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/home/.android/build-cache/b78bb2ec699f17d1afe899d7ce7f2d1e7b221f00/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/done_background_color_dark.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bp_material_key_background.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/bp_material_key_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/item_background_holo_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/button_background_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/home/.android/build-cache/a75c1dc42c3434598ecd46613f66a021479d7703/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/design_fab_background.xml",
+        "source": "/Users/home/.android/build-cache/7b355dd56b082a7eeb42bcb226b065b894aeb615/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/place_holder.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/place_holder.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/truck_activity_2.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/truck_activity_2.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/activity.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/activity.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/turnplate_bg_right.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/turnplate_bg_right.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icn_setting.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icn_setting.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_1.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_1.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/icon_launcher.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/icon_launcher.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bp_material_button_background.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/bp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_4.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_4.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/announcement.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/announcement.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/notif_entry_ticket.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/notif_entry_ticket.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ikt_logo.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/ikt_logo.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/circle_bg3.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/circle_bg3.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/button_background_dark.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/logo.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/ic_check_dark.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/step_1_success.png",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/step_1_success.png"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/home/.android/build-cache/2345d07f28b9d8335c2308d28bc8ecdc2e5cd871/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/bg_notif_cyan.xml",
+        "source": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/src/main/res/drawable/bg_notif_cyan.xml"
+    },
+    {
+        "merged": "/Users/home/Documents/Projects/PJI/ILCS/TO-1/app/build/intermediates/res/merged/staging/debug/drawable/key_background_light.xml",
+        "source": "/Users/home/.android/build-cache/0ff2f7022ae7607313a9ef6652bade3409510513/output/res/drawable/key_background_light.xml"
+    }
+]
